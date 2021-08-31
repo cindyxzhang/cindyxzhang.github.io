@@ -1,29 +1,32 @@
 {
   "files": {
-    "main.css": "/static/css/main.fc57b692.chunk.css",
-    "main.js": "/static/js/main.4056a300.chunk.js",
-    "main.js.map": "/static/js/main.4056a300.chunk.js.map",
+    "main.css": "/static/css/main.98c7a67c.chunk.css",
+    "main.js": "/static/js/main.56e351d5.chunk.js",
+    "main.js.map": "/static/js/main.56e351d5.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.01b49652.js",
     "runtime-main.js.map": "/static/js/runtime-main.01b49652.js.map",
-    "static/js/2.961a3201.chunk.js": "/static/js/2.961a3201.chunk.js",
-    "static/js/2.961a3201.chunk.js.map": "/static/js/2.961a3201.chunk.js.map",
+    "static/js/2.ecd309bc.chunk.js": "/static/js/2.ecd309bc.chunk.js",
+    "static/js/2.ecd309bc.chunk.js.map": "/static/js/2.ecd309bc.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.2fd2f7c4d49f6b4a17dcaacecf155c92.js": "/precache-manifest.2fd2f7c4d49f6b4a17dcaacecf155c92.js",
+    "precache-manifest.f6747c8704c952441bfb3ad0d4ce69ef.js": "/precache-manifest.f6747c8704c952441bfb3ad0d4ce69ef.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.fc57b692.chunk.css.map": "/static/css/main.fc57b692.chunk.css.map",
-    "static/js/2.961a3201.chunk.js.LICENSE.txt": "/static/js/2.961a3201.chunk.js.LICENSE.txt",
+    "static/css/main.98c7a67c.chunk.css.map": "/static/css/main.98c7a67c.chunk.css.map",
+    "static/js/2.ecd309bc.chunk.js.LICENSE.txt": "/static/js/2.ecd309bc.chunk.js.LICENSE.txt",
     "static/media/email.svg": "/static/media/email.eebdb99b.svg",
     "static/media/github.svg": "/static/media/github.3388e633.svg",
     "static/media/glific.png": "/static/media/glific.4a388ea2.png",
     "static/media/headshot.png": "/static/media/headshot.9d308939.png",
     "static/media/linkedin.svg": "/static/media/linkedin.ac76be10.svg",
+    "static/media/nbjc.png": "/static/media/nbjc.953b707c.png",
     "static/media/ppower.png": "/static/media/ppower.f9eb42f7.png",
-    "static/media/wnrs.png": "/static/media/wnrs.05beef8c.png"
+    "static/media/reddit.png": "/static/media/reddit.0ff5db03.png",
+    "static/media/splunk.png": "/static/media/splunk.3afaf3fe.png",
+    "static/media/wish.jpeg": "/static/media/wish.453ee403.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.01b49652.js",
-    "static/js/2.961a3201.chunk.js",
-    "static/css/main.fc57b692.chunk.css",
-    "static/js/main.4056a300.chunk.js"
+    "static/js/2.ecd309bc.chunk.js",
+    "static/css/main.98c7a67c.chunk.css",
+    "static/js/main.56e351d5.chunk.js"
   ]
 }
